@@ -1,0 +1,95 @@
+body{
+  background-color: blanchedalmond;
+  margin: 8px;
+}
+
+.top-header{
+  text-align: center;
+  background-color: black;
+  margin: 25px;
+  padding: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+ul{
+  padding; 10;
+  font-size: 125%;
+}
+
+nav li{
+  display: inline-block;
+  padding: 10px;
+}
+
+main{
+  text-align: center;
+  display: inline-block;
+}
+
+section{
+  text-align: center;
+  display: inline-block;
+  width: 600px;
+  padding: 75px;
+  margin-left: 50px;
+  border: 1px solid black;
+}
+
+.img{
+  text-align: right;
+  display: inline-block;
+}
+
+aside{
+  display: inline-block;
+  background-color: black;
+  width: 10%;
+  vertical-align: top;
+  margin-left: 25px;
+  text-decoration: none;
+  color: white;
+  min-height: 400px;
+}
+
+.footer{
+  background-color: black;
+  display: block;
+  text-decoration: none;
+  color: white;
+  margin: 25px;
+  padding: 20px;
+}
+
+article{
+  text-align: center;
+}
+
+.main{
+  text-align: center;
+  display: inline-block;
+  width: 200px;
+  padding-left: 400px;
+  margin-left: 50px;
+}
+
+.fieldset{
+  display: inline-block;
+  width: 200px;
+  padding-left: 500px;
+  margin-left: 50px;
+}
+
+form{
+  text-align: center;
+  display: block;
+}
+
+table{
+  text-align: center;
+  display: inline-block;
+  border: 1px solid black;
+}
